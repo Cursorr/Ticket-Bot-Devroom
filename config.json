@@ -1,0 +1,15 @@
+{
+    "token": "",
+    "app_id": 0,
+    "guild_id": 0,
+    "color": "0xffffff",
+    "tickets": {
+        "category": 0,
+        "max_tickets": 3,
+        "automatic_added_role": 0,
+        "bypass_limit_roles": [],
+        "add_remove_roles": [],
+        "close_roles": [],
+        "transcript_channel": 0
+    }
+}
